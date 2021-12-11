@@ -22,6 +22,7 @@ namespace NomogramPrint.Models
         public int Number { get; set; }
         public string Triangle { get; set; }
         public string Digits { get; set; }
+        public List<string> Object { get; set; }
         public List<string> Images { get; set; }
     }
 }
