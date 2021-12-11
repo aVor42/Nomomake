@@ -1,0 +1,12 @@
+D:\repos\C#\NomogramPrint\NomogramPrint\bin\Debug\NomogramPrint.exe.config
+D:\repos\C#\NomogramPrint\NomogramPrint\bin\Debug\NomogramPrint.exe
+D:\repos\C#\NomogramPrint\NomogramPrint\bin\Debug\NomogramPrint.pdb
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.AssemblyReference.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.SuggestedBindingRedirects.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Form1.resources
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Properties.Resources.resources
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.exe
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.pdb
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
