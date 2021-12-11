@@ -27,10 +27,8 @@ namespace NomogramPrint
     // пока сыро.
     public enum CellContentType
     {
-        Triangle,
-        Digits,
         Number,
-        Images,
+        Objects,
         None
     }
 }

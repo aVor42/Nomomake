@@ -17,7 +17,8 @@ namespace NomogramPrint.Servicies
             (int, int) km = getKm();
             DbContext context = new DbContext();
             for (int i = km.Item2; i > km.Item1; i--)
-                context.Kilometers.Add(new Kilometer { Number = i, Digits = "00-00" });
+                context.Kilometers.Add(new Kilometer { Number = i});
+            context.Kilometers[18].Objects.Add(new KTSM());
             return context;
         }
         public Range readFile(string path)

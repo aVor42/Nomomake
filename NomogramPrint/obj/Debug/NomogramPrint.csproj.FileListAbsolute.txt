@@ -22,3 +22,4 @@ D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.ca
 D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
 D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.exe
 D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.pdb
+D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.ResolveComReference.cache
