@@ -10,3 +10,15 @@ D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompi
 D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.exe
 D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.pdb
 D:\repos\C#\NomogramPrint\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
+D:\hak\Nomomake\NomogramPrint\bin\Debug\NomogramPrint.exe.config
+D:\hak\Nomomake\NomogramPrint\bin\Debug\NomogramPrint.exe
+D:\hak\Nomomake\NomogramPrint\bin\Debug\NomogramPrint.pdb
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.AssemblyReference.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.ResolveComReference.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.Form1.resources
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.Properties.Resources.resources
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.Resource1.resources
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.GenerateResource.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.csproj.CoreCompileInputs.cache
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.exe
+D:\hak\Nomomake\NomogramPrint\obj\Debug\NomogramPrint.pdb

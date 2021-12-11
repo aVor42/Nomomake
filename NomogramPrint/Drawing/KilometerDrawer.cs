@@ -31,19 +31,6 @@ namespace NomogramPrint
                 graphics.Restore(state);
             };
 
-            _cellsDrawing[CellContentType.Digits] = (graphics, kilometer, point, size) =>
-            {
-                var state = graphics.Save();
-
-                graphics.TranslateTransform(point.X + size.Width / 2, point.Y + size.Height / 2);
-                graphics.RotateTransform(270);
-
-                var font = new Font(FontFamily.GenericSansSerif, 11, FontStyle.Regular);
-                SizeF textSize = graphics.MeasureString(kilometer.Digits.ToString(), font);
-                graphics.DrawString(kilometer.Digits.ToString(), font, Brushes.Black, -(textSize.Width / 2), -(textSize.Height / 2));
-                graphics.Restore(state);
-            };
-
             _cellsDrawing[CellContentType.None] = (graphics, kilometer, point, size) => { };
         }
 

@@ -16,13 +16,10 @@ namespace NomogramPrint.Models
         public Kilometer(int number)
         {
             Number = number;
-            Images = new List<string>();
+            Objects = new List<IObject>();
         }
 
         public int Number { get; set; }
-        public string Triangle { get; set; }
-        public string Digits { get; set; }
-        public List<string> Object { get; set; }
-        public List<string> Images { get; set; }
+        public List<IObject> Objects { get; set; }
     }
 }
