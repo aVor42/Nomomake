@@ -47,8 +47,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Drawing\Drawer.cs" />
+    <Compile Include="Drawing\ObjectDrawer.cs" />
+    <Compile Include="Models\Cliffs.cs" />
     <Compile Include="Models\DbContext.cs" />
+    <Compile Include="Models\IObject.cs" />
     <Compile Include="Models\Kilometer.cs" />
+    <Compile Include="Models\KTSM.cs" />
+    <Compile Include="Models\LEP.cs" />
+    <Compile Include="Models\UKSPS.cs" />
     <Compile Include="Resource1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
