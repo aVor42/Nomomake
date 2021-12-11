@@ -31,9 +31,9 @@ namespace NomogramPrint
             kilometerSettings.Cells = new List<Cell>
             {
                 new Cell(0.15f, CellContentType.None),
-                new Cell(0.2f, CellContentType.Digits),
+                new Cell(0.2f, CellContentType.None),
                 new Cell(0.2f, CellContentType.Number),
-                new Cell(0.45f, CellContentType.None)
+                new Cell(0.45f, CellContentType.Objects)
             };
             _drawSettings = new DrawSettings(kilometerSettings);
             _drawer = new Drawer(_drawSettings);
@@ -49,7 +49,7 @@ namespace NomogramPrint
 
         private void button1_MouseClick(object sender, MouseEventArgs e)
         {
-            var test = new Bitmap(2000, 1000);
+            var test = new Bitmap(4000, 1000);
 
             using (Graphics gr = Graphics.FromImage(test))
             {

@@ -31,6 +31,31 @@ namespace NomogramPrint
                 graphics.Restore(state);
             };
 
+            _cellsDrawing[CellContentType.Objects] = (graphics, kilometer, point, size) =>
+            {
+
+                foreach(var _object in kilometer.Objects)
+                {
+                    Bitmap objectImage;
+                    switch (_object)
+                    {
+                        case KTSM ktsm:
+                            objectImage = Resource1.ktsm;
+                            break;
+                        case UKSPS uksps:
+                            objectImage = Resource1.uksps;
+                            break;
+                        default:
+                            continue;
+                    }
+                    var state = graphics.Save();
+                    graphics.TranslateTransform(point.X + size.Width / 2, point.Y + size.Height / 2);
+                    graphics.DrawImage(objectImage, new PointF(-(objectImage.Width / 2), -(objectImage.Height / 2)));
+                    graphics.Restore(state);
+                }
+                
+            };
+
             _cellsDrawing[CellContentType.None] = (graphics, kilometer, point, size) => { };
         }
 
