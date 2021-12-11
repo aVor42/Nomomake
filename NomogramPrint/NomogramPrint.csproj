@@ -112,12 +112,15 @@
     <None Include="Resources\ktsm.bmp" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="Resources\ktsm.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\uksps.jpg" />
   </ItemGroup>
   <ItemGroup>
+=======
+>>>>>>> origin/main
     <COMReference Include="Microsoft.Office.Core">
       <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
       <VersionMajor>2</VersionMajor>

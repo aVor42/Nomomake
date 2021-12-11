@@ -15,5 +15,6 @@ namespace NomogramPrint.Models
         }
 
         public List<Kilometer> Kilometers { get; set;}
+        public List<IObject> IObject{ get; set; }
     }
 }
